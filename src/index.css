@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* ----- HOME PAGE ----- */
+.post-title {
+  color: #1464f6;
+}
+
+.container1 {
+  width: 80%;
+  margin: 0 auto;
+  background-color: lightgray;
+  padding: 30%;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+ 
+  margin-top:30;
+  
+
+}
+
+.single-author{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.nav2{
+  float:right;
+  width: 50%;
+  text-align: center;
+ 
+  
+}
